@@ -7,10 +7,21 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("     ##");
-            Console.WriteLine("    #  #");
-            Console.WriteLine("   #    #");
-            Console.WriteLine(" #  #  #   #");
+            // Console.WriteLine("     ##");
+            // Console.WriteLine("    #  #");
+            // Console.WriteLine("   #    #");
+            // Console.WriteLine(" #  #  #   #");
+
+            //DATATYPES
+
+            string phrase="Hezron academy";
+            // char grade='A';
+            // int age =30;
+            // double gpa = 3.2;
+            // bool isMale = true;
+
+            Console.WriteLine("Hezron\n Academy");
+            Console.WriteLine(phrase);
            
         }
     }
